@@ -2,6 +2,8 @@
 
 WebApp to load and select between two live HLS streams on AntMedia.
 
+My antmedia was set up following this: https://gist.github.com/jolbol1/abfec60735bc4ba9335e3a461f784268
+
 ## Available Scripts
 
 In the project directory, you can run:
